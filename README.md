@@ -15,5 +15,5 @@ npm install dotenv
 
 # comandos básicos
 - git add .
-- git commit -m "mesagem"
+- git commit -m "criado o primeiro servidor com o express"
 - git push
